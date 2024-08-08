@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|c:\\users\\adamy\\desktop\\newproject\\backendofficial\\webscrappedback\\controllers\\totaljobsmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|solutionrelative:controllers\\totaljobsmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|c:\\users\\adamy\\desktop\\newproject\\backendofficial\\webscrappedback\\models\\entities\\totaljobsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|solutionrelative:models\\entities\\totaljobsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|c:\\users\\adamy\\desktop\\newproject\\backendofficial\\webscrappedback\\controllers\\linkedinmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|solutionrelative:controllers\\linkedinmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|c:\\users\\adamy\\desktop\\newproject\\backendofficial\\webscrappedback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|c:\\users\\adamy\\desktop\\newproject\\backendofficial\\webscrappedback\\migrations\\20240731161158_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|solutionrelative:migrations\\20240731161158_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|c:\\users\\adamy\\desktop\\newproject\\backendofficial\\webscrappedback\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|c:\\users\\adamy\\desktop\\newproject\\backendofficial\\webscrappedback\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|c:\\users\\adamy\\desktop\\newproject\\backendofficial\\webscrappedback\\models\\entities\\linkedinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CA082-089F-4357-B3AB-42EE5A7468BC}|WebScrappedBack.csproj|solutionrelative:models\\entities\\linkedinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TotalJobsModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Controllers\\TotalJobsModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TotalJobsModelsController.cs",
+              "ToolTip": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Controllers\\TotalJobsModelsController.cs",
+              "RelativeToolTip": "Controllers\\TotalJobsModelsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:01:25.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedInModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Controllers\\LinkedInModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LinkedInModelsController.cs",
+              "ToolTip": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Controllers\\LinkedInModelsController.cs",
+              "RelativeToolTip": "Controllers\\LinkedInModelsController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAgwIMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:57:33.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T17:12:54.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TotalJobsModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Models\\Entities\\TotalJobsModel.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\TotalJobsModel.cs",
+              "ToolTip": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Models\\Entities\\TotalJobsModel.cs",
+              "RelativeToolTip": "Models\\Entities\\TotalJobsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:48:13.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinkedInModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Models\\Entities\\LinkedInModel.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\LinkedInModel.cs",
+              "ToolTip": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Models\\Entities\\LinkedInModel.cs",
+              "RelativeToolTip": "Models\\Entities\\LinkedInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:44:58.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240731161158_Inital.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Migrations\\20240731161158_Inital.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240731161158_Inital.cs",
+              "ToolTip": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Migrations\\20240731161158_Inital.cs",
+              "RelativeToolTip": "Migrations\\20240731161158_Inital.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAnwDIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:11:59.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:10:50.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\adamy\\Desktop\\NewProject\\BackendOfficial\\WebScrappedBack\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:10:12.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
